@@ -2,7 +2,7 @@
 const faqData = [
     {
         question: "Can I try RefearnApp for free?",
-        answer: "Yes! You can try RefearnApp completely free for 7 days. During your trial, you’ll have full access to all features—no credit card required. This allows you to explore the dashboard, set up your affiliate program, and understand how RefearnApp can help grow your SaaS."
+        answer: "Yes! You can try RefearnApp completely free for 14 days. During your trial, you’ll have full access to all features—no credit card required. This allows you to explore the dashboard, set up your affiliate program, and understand how RefearnApp can help grow your SaaS."
     },
     {
         question: "Which platforms does RefearnApp support?",
