@@ -101,7 +101,7 @@
       <workItem from="1768044160877" duration="1573000" />
       <workItem from="1768053659366" duration="29241000" />
       <workItem from="1768090114913" duration="2084000" />
-      <workItem from="1768108819335" duration="1981000" />
+      <workItem from="1768108819335" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768109705968</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add meta tags for SEO and social media sharing">
+      <option name="closed" value="true" />
+      <created>1768110882934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768110882934</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
