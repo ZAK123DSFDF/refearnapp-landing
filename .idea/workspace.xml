@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4a2aed0-e3b9-49c7-ad25-bccdb97ceb94" name="Changes" comment="Add meta tags for SEO and social media sharing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/header.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +101,7 @@
       <workItem from="1768044160877" duration="1573000" />
       <workItem from="1768053659366" duration="29241000" />
       <workItem from="1768090114913" duration="2084000" />
-      <workItem from="1768108819335" duration="422000" />
+      <workItem from="1768108819335" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <option name="closed" value="true" />

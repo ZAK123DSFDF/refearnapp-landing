@@ -34,7 +34,7 @@ const headerHTML = `
             <a href="#testimonials" class="mobile-link text-lg font-medium text-foreground/80 hover:text-primary hover:translate-x-2 transition-all duration-200">Testimonials</a>
             <a href="#pricing" class="mobile-link text-lg font-medium text-foreground/80 hover:text-primary hover:translate-x-2 transition-all duration-200">Pricing</a>
             
-            <div class="pt-6 border-t border-border flex flex-col space-y-4">
+            <div class="pt-6 border-t border-border flex justify-between space-y-4">
                 <a href="/login" class="mobile-link text-lg font-medium text-foreground/80 hover:text-primary transition-all">Log in</a>
                 <a href="/signup" class="bg-primary text-primary-foreground text-center px-4 py-3 rounded-full shadow-md font-bold active:scale-95 transition-all">
                     Get Started
